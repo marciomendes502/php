@@ -1,5 +1,6 @@
 <?php
-echo "Olá Mundo";
-echo "Segunda mudança";
+echo "OlÃ¡ Mundo";
+echo "Segunda mudanÃ§a";
+echo "Terceira MudanÃ§a";
 
 ?>
